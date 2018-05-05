@@ -1,7 +1,7 @@
 # Built application files
 *.apk
 *.ap_
-
+*.
 # Files for the ART/Dalvik VM
 *.dex
 
@@ -53,3 +53,16 @@ google-services.json
 freeline.py
 freeline/
 freeline_project_description.json
+
+.DS_Store
+.atom/
+.idea
+.packages
+.pub/
+build/
+ios/.generated/
+packages
+pubspec.lock
+
+.flutter-plugins
+.metadata
